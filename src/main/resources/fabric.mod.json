@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "maveland_mod",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Maveland",
+  "description": "Mod usado para añadir cosas dentro del server de maveland",
   "authors": [
-    "Me!"
+    "JackCres"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,16 +14,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/maveland_mod/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.jackcres.maveland_mod.MavelandMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "maveland_mod.mixins.json"
   ],
 
   "depends": {
