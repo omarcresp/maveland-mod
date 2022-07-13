@@ -13,7 +13,22 @@ import net.minecraft.util.registry.Registry;
 public class ModBlocks {
     public static final Block MYTHRIL_BLOCK = registerBlock(
             "mythril_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(3f)),
+            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()),
+            ItemGroup.MISC
+    );
+    public static final Block MYTHRIL_ORE = registerBlock(
+            "mythril_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()),
+            ItemGroup.MISC
+    );
+    public static final Block DEEPSLATE_MYTHRIL_ORE = registerBlock(
+            "deepslate_mythril_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(5f).requiresTool()),
+            ItemGroup.MISC
+    );
+    public static final Block NETHERRACK_MYTHRIL_ORE = registerBlock(
+            "netherrack_mythril_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()),
             ItemGroup.MISC
     );
 

@@ -2,5 +2,8 @@
   "item.maveland_mod.mythril_ingot": "Mythril Ingot",
   "item.maveland_mod.raw_mythril": "Raw Mythril",
   "item.maveland_mod.mythril_nugget": "Mythril Nugget",
-  "block.maveland_mod.mythril_block": "Mythril Block"
+  "block.maveland_mod.mythril_block": "Mythril Block",
+  "block.maveland_mod.mythril_ore": "Mythril Ore",
+  "block.maveland_mod.deepslate_mythril_ore": "Deepslate Mythril Ore",
+  "block.maveland_mod.netherrack_mythril_ore": "Nether Mythril Ore"
 }

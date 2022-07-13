@@ -2,5 +2,8 @@
   "item.maveland_mod.mythril_ingot": "Lingote de Mithril",
   "item.maveland_mod.raw_mythril": "Mithril en bruto",
   "item.maveland_mod.mythril_nugget": "Pepita de Mithril",
-  "item.maveland_mod.mythril_block": "Bloque de Mithril"
+  "item.maveland_mod.mythril_block": "Bloque de Mithril",
+  "block.maveland_mod.mythril_ore": "Mena de Mythril",
+  "block.maveland_mod.deepslate_mythril_ore": "Mena de Mythril de pizarra abismal",
+  "block.maveland_mod.netherrack_mythril_ore": "Mena Mythril del Nether"
 }
