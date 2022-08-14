@@ -5,5 +5,6 @@
   "item.maveland_mod.mythril_block": "Bloque de Mithril",
   "block.maveland_mod.mythril_ore": "Mena de Mythril",
   "block.maveland_mod.deepslate_mythril_ore": "Mena de Mythril de pizarra abismal",
-  "block.maveland_mod.netherrack_mythril_ore": "Mena Mythril del Nether"
+  "block.maveland_mod.netherrack_mythril_ore": "Mena Mythril del Nether",
+  "itemGroup.maveland_mod.mythril": "Maveland Mod"
 }

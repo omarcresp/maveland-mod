@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "ingredient": {
+    "item": "maveland_mod:raw_mythril"
+  },
+  "result": "maveland_mod:mythril_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

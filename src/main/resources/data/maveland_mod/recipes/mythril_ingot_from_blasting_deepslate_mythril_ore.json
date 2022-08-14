@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "iron_ingot",
+  "ingredient": {
+    "item": "maveland_mod:deepslate_mythril_ore"
+  },
+  "result": "maveland_mod:mythril_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

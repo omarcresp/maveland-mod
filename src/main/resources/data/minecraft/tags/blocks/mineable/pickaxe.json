@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "maveland_mod:mythril_block",
+    "maveland_mod:mythril_ore",
+    "maveland_mod:deepslate_mythril_ore",
+    "maveland_mod:netherrack_mythril_ore"
+  ]
+}
